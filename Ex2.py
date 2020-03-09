@@ -13,4 +13,4 @@ class Solution:
                 self.length = self.length + x
         return self.length
 
-print (Solution().lengthOfLongestSubString('abrkaabcdefghijjxxxoooo'))
+print (Solution().lengthOfLongestSubString('abrkaabcdefghijjxxx'))
