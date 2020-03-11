@@ -1,5 +1,9 @@
 # Problem asked by Microsoft
 
+# Here a sequence in a list makes a number,
+# Add those numbers that contains in the list form and reverse the string
+# Because originally the list is in reverse order.
+
 # Definition for Singly LinkedList 
 class ListNode(object):
     def __init__(self, x):
